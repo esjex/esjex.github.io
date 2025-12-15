@@ -1,16 +1,16 @@
 # Siobhan Fitzgerald-Gibson
 
+[Portfolio](portfolio.zip) // [LinkedIn](https://www.linkedin.com/in/siobhan-fitzgerald-gibson/)
+
 ## Technical Writer & Editor
 
-Hello! I'm Siobhan.
+Hello! I'm Siobhan. 
 
-I'm a human-focused technical writer and editor who believes that **good documentation makes people's lives easier**. 
-
-I specialise in clear, scalable technical content for developer tools and technical products, to create high-quality resources that teams and users actually want to use. 
+I'm a senior technical writer and editor specialising in documentation and written resources for developer tools and technical products. I help teams create clear, scalable documentation and technical content that users genuinely want to use. 
 
 ### What I Do
 
-I work with engineering teams, SaaS products, and technical organizations to build documentation and create content that supports users and grows with products. This includes documentation systems, training materials, technical blogs, and UX writing; anything that helps people understand and use technical tools.
+I work with engineering teams, SaaS products, and technical organizations to build documentation and create content that supports users and grows with products. My focus is on quality, clarity, and creating systems that scale. This includes documentation systems, training materials, technical blogs, and UX writing; anything that helps people understand and use technical tools.
 
 **Core expertise:**
 
