@@ -27,12 +27,6 @@ I spent nine years at Unity Technologies as Senior Technical Writer and Chief Te
 
 Since then, I've worked with clients on custom prototyping tool documentation, technical training curricula, and developer platform implementations.
 
-### Portfolio
-
-[Download my portfolio](portfolio.zip) (PDFs) to view examples of my work.
-
-For more on my background, you can find me on [LinkedIn](https://www.linkedin.com/in/siobhan-fitzgerald-gibson/).
-
 ### Work with me
 
 I’m currently available for long and short-term projects.
