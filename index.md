@@ -10,7 +10,7 @@ I'm a senior technical writer and editor specialising in documentation and writt
 
 ### What I Do
 
-I work with engineering teams, SaaS products, and technical organizations to build documentation and create content that supports users and grows with products. My focus is on quality, clarity, and creating systems that scale. This includes documentation systems, training materials, technical blogs, and UX writing; anything that helps people understand and use technical tools.
+I work with engineering teams and technical organizations to build documentation and create content that supports users and grows with products. My focus is on quality, clarity, and creating systems that scale. This includes documentation systems, training materials, technical blogs, and UX writing; anything that helps people understand and use technical tools.
 
 **Core expertise:**
 
@@ -23,7 +23,7 @@ I work with engineering teams, SaaS products, and technical organizations to bui
 
 ### Background
 
-As Senior Technical Writer and Chief Technical Editor at Unity Technologies, I helped scale the documentation team from 4 to 80 writers, and established documentation quality and style standards used by 5,000+ employees. I've worked on everything from game engine documentation to company-wide style guides, and led initiatives that brought developers and writers together to improve team documentation culture.
+As Senior Technical Writer and Chief Technical Editor at Unity Technologies, I helped scale the documentation team from 4 to 80 writers, as the company grew from a mid-size start-up to a large SaaS enterprise. I established documentation quality and style standards for technical communications, used by 5,000+ employees. I've worked on everything from game engine documentation to company-wide style guides, and led initiatives that brought developers and writers together to improve team documentation culture.
 
 I'm currently working with clients on custom prototyping tool documentation, technical training curricula, and technical events documentation.
 
