@@ -23,9 +23,9 @@ I work with engineering teams, SaaS products, and technical organizations to bui
 
 ### Background
 
-I spent nine years at Unity Technologies as Senior Technical Writer and Chief Technical Editor, where I helped scale the documentation team from 4 to 80 writers and established quality standards used by 5,000+ employees. I've worked on everything from game engine documentation to company-wide style guides, and led initiatives that brought developers and writers together to improve team documentation culture.
+As Senior Technical Writer and Chief Technical Editor at Unity Technologies, I helped scale the documentation team from 4 to 80 writers, and established documentation quality and style standards used by 5,000+ employees. I've worked on everything from game engine documentation to company-wide style guides, and led initiatives that brought developers and writers together to improve team documentation culture.
 
-Since then, I've worked with clients on custom prototyping tool documentation, technical training curricula, and developer platform implementations.
+I'm currently working with clients on custom prototyping tool documentation, technical training curricula, and technical events documentation.
 
 ### Work with me
 
